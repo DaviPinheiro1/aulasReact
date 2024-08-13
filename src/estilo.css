@@ -1,0 +1,102 @@
+.tabela{
+    background-color: #D4C7BE;
+    border-radius: 20px;
+    width: 700px;
+    font-weight: 100;
+    border-collapse: collapse;
+    overflow: hidden;
+    box-shadow: 0 0 20px #0000001a;
+    margin-left: auto;
+    margin-right: auto;
+  
+  }
+  
+
+  .sub {
+    display: inline-block;
+    padding: 5px 15px;
+    font-size: 10px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #f17070;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 3px #999;
+  }
+  
+  .sub:hover {background-color: #ff0000}
+  
+  .sub:active {
+    background-color: #ff0000;
+    box-shadow: 0 2px #666;
+    transform: translateY(4px);
+  }
+
+  .soma {
+    display: inline-block;
+    padding: 5px 15px;
+    font-size: 10px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #46d861;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 3px #999;
+  }
+  
+  .soma:hover {background-color: #44ff00}
+  
+  .soma:active {
+    background-color: #46d861;
+    box-shadow: 0 2px #666;
+    transform: translateY(4px);
+  }
+  
+  .product{
+    background-color: #2d2d2b;
+    color: antiquewhite;
+    border-radius: 20px;
+  }
+  
+  .corpo{
+    border-bottom: 2px groove rgb(49, 27, 69);
+    line-height: 3.6;
+    padding-left: 15px;
+    padding-right: 20px;
+    text-align: left; 
+  }
+  
+  .rodape{
+    background-color: #2d2d2b;
+    color: antiquewhite;
+    
+  }
+  
+  th,td {
+    text-align: center;
+    padding: 10px;
+  }
+  
+  th{
+    text-align: left;
+  }
+  
+  tbody tr:hover{
+    background-color: #eadfdf;
+  }
+  
+  
+  .titulo{
+    text-align: center;
+  }
+  
+  body{
+    background-color: black;
+  }
+  
