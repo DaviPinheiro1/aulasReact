@@ -1,0 +1,28 @@
+.tabela{
+  background-color: rgb(194, 219, 224);
+  border-radius: 20px;
+}
+
+.botaoremover{
+  background-color: rgb(12, 9, 41);
+  border-radius: 30px;
+  color: azure;
+}
+
+.topo{
+  background-color: rgb(17, 2, 26);
+  color: antiquewhite;
+}
+
+.indice{
+  
+}
+
+.rodape{
+  background-color: rgb(17, 2, 26);
+  color: antiquewhite;
+}
+
+.th {
+  border: 1px solid black;
+}
